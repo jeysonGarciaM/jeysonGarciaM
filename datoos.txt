@@ -1,0 +1,4 @@
+Nombre: Jeyson Garcia
+Edad: 17 
+Color favorito: Gris
+Ciudad de nacimiento: Armenia
